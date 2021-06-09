@@ -65,9 +65,10 @@ body {
     }
   }
 
-  input {
+  #input {
     padding: 20px 10px;
     border: thin solid rgb(163, 163, 163);
     outline: none;
+    resize: none;
   }
 }
